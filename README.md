@@ -34,7 +34,7 @@ O grafo do método contém os seguintes nós:
 
 ---
 
-## 🔢 Cálculo da Complexidade Ciclomática
+##  Cálculo da Complexidade Ciclomática
 
 A fórmula usada foi:
 
