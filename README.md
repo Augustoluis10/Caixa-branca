@@ -89,7 +89,7 @@ Caminhos Básicos do Método verificarUsuario
 Como a complexidade ciclomática foi 2, isso significa que o grafo possui dois caminhos independentes.
 Eles representam os dois possíveis resultados do teste lógico rs.next().
 ________________________________________
-🔵 Caminho Básico 1 — Usuário ENCONTRADO
+ Caminho Básico 1 — Usuário ENCONTRADO
 Fluxo completo quando a consulta retorna um registro válido:
 N1 → N2 → N3 → N4 → N5 → N6 → N7 → N8 → N10
 Explicação:
@@ -98,7 +98,7 @@ Explicação:
 •	O código atualiza result = true e busca o nome do usuário
 •	Por fim retorna result
 ________________________________________
-🔴 Caminho Básico 2 — Usuário NÃO encontrado
+ Caminho Básico 2 — Usuário NÃO encontrado
 Fluxo do programa quando o banco não retorna nenhum valor:
 N1 → N2 → N3 → N4 → N5 → N9 → N10
 Explicação:
