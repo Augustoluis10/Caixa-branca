@@ -11,6 +11,7 @@ Este repositório contém a análise estrutural do método `verificarUsuario()` 
 ---
 ## 📌 Planilha 
 
+<img width="846" height="596" alt="Planilha correta vermelha e azul caixa branca" src="https://github.com/user-attachments/assets/65ede8de-c896-4c38-be43-55a73cbd655d" />
 
 
 ## 📌 Estrutura do Grafo (Nós)
